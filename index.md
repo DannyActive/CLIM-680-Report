@@ -1,6 +1,7 @@
 Assessing Rainfall Variability and ENSO Influence on African Precipitation
 ---
 by: Daniel A. Adjei
+-
 
 ### Introduction
 
