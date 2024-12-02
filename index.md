@@ -53,3 +53,8 @@ A panel plot of the climatology of monthly averaged precipitation (in meters), m
 
 
 
+
+![composite precip anomaly_ENSO](https://github.com/user-attachments/assets/886f3c5d-8ed8-4316-a980-665092039345)
+
+
+
