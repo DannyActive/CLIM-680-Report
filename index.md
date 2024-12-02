@@ -29,3 +29,8 @@ Monthly mean sea surface temperature dataset computed as the Niño3.4 index, spa
 
 [Link to NCAR niño indices description](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
+### Results and Analysis
+
+### Project Notebook via Github
+Located within my CLIM680_project repository is a series of jupyter notebooks that contain all of the labeled and commented code that was used in my analysis. 
+[Link:](https://github.com/areed29/CLIM680_project/) 
