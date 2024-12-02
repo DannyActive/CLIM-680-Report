@@ -33,5 +33,5 @@ Results and Analysis
 ---
 
 ### Project Notebook via Github
-Located within my CLIM680_project repository is a series of jupyter notebooks that contain all of the labeled and commented code that was used in my analysis. 
-[Link:](https://github.com/areed29/CLIM680_project/) 
+A collection of jupyter notebooks used for this analysis can be be found in my CLIM680-Report directory via [Analysis:](https://github.com/DannyActive/CLIM680-Report) . All notebooks are labeled and commented.
+
