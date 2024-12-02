@@ -24,7 +24,7 @@ The Climate Research Unit Time Series (CRU TS) dataset is a gridded dataset with
 
 Monthly mean sea surface temperature dataset computed as the Niño3.4 index, spanning 1990 to 2019, is used to calculate composites for El-Niño, La Nina, and Neutral phases, evaluating the impact of each phase on precipitation in Africa. 
 
-![Niño3.4 index (with warming & cooling signals)](/figures/Niño3.4 phases.png)
+![Niño3.4 index (with warming & cooling signals)](figures/Niño3.4 phases.png)
 
 
 [Link to NCAR niño indices description](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
