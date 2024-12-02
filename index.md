@@ -36,8 +36,14 @@ Results and Analysis
 
 A collection of jupyter notebooks used for this analysis can be be found in my CLIM680-Report directory via [Analysis:](https://github.com/DannyActive/CLIM680-Report) . The python notebook [RAI](https://github.com/DannyActive/CLIM680-Report/blob/main/RAI.ipynb) includes a manual function for computing the Rainfall Anomaly Index (RAI). All notebooks are labeled and commented.
 
-# Conda environment 
+### Conda environment 
 The [climate.yml](climate.yml) file provides the conda environment for the successful execution codes used in this study.
+
+### Figures
+All figures generated from this work can be found in the sub-repository [figures](https://github.com/DannyActive/CLIM680-Report/tree/main/figures).
+The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
+
+### Climatology and Anomalies 
 
 
 
