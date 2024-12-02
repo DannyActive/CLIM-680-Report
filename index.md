@@ -1,7 +1,7 @@
 Assessing Rainfall Variability and ENSO Influence on African Precipitation
 ---
 by: Daniel A. Adjei
--
+
 
 Introduction
 ---
@@ -14,7 +14,15 @@ Data
 The dataset used in this project:
 
 ### Cru TS Precipitation Dataset 
+
 The Climate Research Unit Time Series (CRU TS) dataset is a gridded dataset with a spatial resolution of 0.5 by 0.5 degree based on a spatially complete analysis of records of more than 4000 individual weather stations. Variables included in this dataset are monthly fields of precipitation, daily maximum and minimum temperatures, and cloud cover for 1901-2022. In this report, the monthly precipitation variable is used to compute the monthly and annual average climatology and the annual anomaly. 
 
 [Link to dataset description](https://climatedataguide.ucar.edu/climate-data/cru-ts-gridded-precipitation-and-other-meteorological-variables-1901)
+
+### El Niño Southern Oscillation (Niño3.4) Index 
+
+Monthly mean sea surface temperature dataset computed as the Niño3.4 index, spanning 1990 to 2019, is used to calculate composites for El-Niño, La Nina, and Neutral phases, evaluating the impact of each phase on precipitation in Africa. 
+
+
+[Link to NCAR niño indices description](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
