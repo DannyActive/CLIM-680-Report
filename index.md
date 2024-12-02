@@ -24,7 +24,7 @@ The Climate Research Unit Time Series (CRU TS) dataset is a gridded dataset with
 
 Monthly mean sea surface temperature dataset computed as the Niño3.4 index, spanning 1990 to 2019, is used to calculate composites for El-Niño, La Nina, and Neutral phases, evaluating the impact of each phase on precipitation in Africa. 
 
-![Niño3.4 index (with warming & cooling signals)](figures/Niño3.4 phases.png)
+![Niño3.4 index (with warming & cooling signals)](https://github.com/user-attachments/assets/307f6c86-289e-4796-b12a-ae1eb651bbfc)
 
 
 [Link to NCAR niño indices description](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
@@ -37,7 +37,7 @@ Results and Analysis
 A collection of jupyter notebooks used for this analysis can be be found in my CLIM680-Report directory via [Analysis:](https://github.com/DannyActive/CLIM680-Report) . The python notebook [RAI](https://github.com/DannyActive/CLIM680-Report/blob/main/RAI.ipynb) includes a manual function for computing the Rainfall Anomaly Index (RAI). All notebooks are labeled and commented.
 
 ### Conda environment 
-The [climate.yml](climate.yml) file provides the conda environment for the successful execution codes used in this study.
+The [climate.yml](climate.yml) file provides the conda environment for the successful execution of codes used in this study.
 
 ### Figures
 All figures generated from this work can be found in the sub-repository [figures](https://github.com/DannyActive/CLIM680-Report/tree/main/figures).
