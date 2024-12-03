@@ -34,12 +34,9 @@ $\olsi{N} is the average monthly/seasonal/annual precipitation of historical ser
 
 
  is the average monthly/seasonal/annual precipitation of historical series;
-M
  is the average of ten highest monthly/seasonal/annual precipitations;
-X
  is the average of ten lowest monthly/seasonal/annual precipitations;
-N − N
- represents the positive anomaly and negative anomaly based on positive or negative values.
+N − N represents the positive anomaly and negative anomaly based on positive or negative values.
 
 
 ### El Niño Southern Oscillation (Niño3.4) Index 
