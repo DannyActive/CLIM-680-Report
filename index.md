@@ -68,7 +68,16 @@ To observe the differences in monthly average precipitation (mm) and spatial var
 
 A panel plot of the climatology of monthly averaged precipitation (in meters), monthly averaged cloud cover, and monthly averaged precipitable water (in kg/m^2) was plotted for each month, in order to observe differences in the monthly/seasonal cycle, and spatial variability. The largest amount of cloud cover is located around 0-20S in DJF (December, Janurary, February), gradually shifting north by MAM (March, April, May), and then furthest north in a band between 5S-15N by the JJA (June, July, August) rainy season. Precipitable water shows similar patterns, with highest values concentrated near the Gulf of Ginuea. The precipitation climatology, which is plotted in powers of 2 to highlight nonlinearity, also shows this northward shift in the rainy season.
 
-![monthly_avg_precip](https://github.com/user-attachments/assets/81d21d6a-4611-4594-a040-1e112fc59646)
+![Monthly Precipitation Climatology](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/monthly_clim_precip.png)
+
+![Annual Precipitation Climatology](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/yearly_clim_precip.png)
+
+
+
+![Annual RAI Variability](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI_annual.png)
+
+
+
 
 
 
