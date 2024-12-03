@@ -11,6 +11,7 @@ The variability of rainfall exhibited on both spatial and temporal scales (Ball 
 
 Study Area
 ---
+
 ![African map](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/African%20map.png)
 
 Data
