@@ -20,6 +20,16 @@ The Climate Research Unit Time Series (CRU TS) dataset is a gridded dataset with
 
 [Link to dataset description](https://climatedataguide.ucar.edu/climate-data/cru-ts-gridded-precipitation-and-other-meteorological-variables-1901)
 
+Method
+---
+### Rainfall Anomaly Index (RAI)
+
+The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005 ; Fernandes et al., 2009 ). According to Rooy (1965) , RAI aims to make the comparison between precipitation deviations in different regions feasible.
+
+![RAI Computation](<img width="350" alt="RAI " src="https://github.com/user-attachments/assets/c2373aad-4179-4abe-8d73-a982b755590f">)
+
+
+
 ### El Niño Southern Oscillation (Niño3.4) Index 
 
 Monthly mean sea surface temperature dataset computed as the Niño3.4 index, spanning 1990 to 2019, is used to calculate composites for El-Niño, La Nina, and Neutral phases, evaluating the impact of each phase on precipitation in Africa. 
