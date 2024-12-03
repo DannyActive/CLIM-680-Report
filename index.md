@@ -29,14 +29,14 @@ The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify
 ![RAI Computation](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI%20.png)
 
 Where:
-$\olsi{N} is the average monthly/seasonal/annual precipitation of historical series;
-\( P_{\N{mean}} \)
 
+$\overline{N}$ is the average monthly/seasonal/annual precipitation of historical series;
 
- is the average monthly/seasonal/annual precipitation of historical series;
- is the average of ten highest monthly/seasonal/annual precipitations;
- is the average of ten lowest monthly/seasonal/annual precipitations;
-N − N represents the positive anomaly and negative anomaly based on positive or negative values.
+$\overline{M}$ is the average of ten highest monthly/seasonal/annual precipitations;
+
+$\overline{X}$ is the average of ten lowest monthly/seasonal/annual precipitations;
+
+N − $\overline{N}$ represents the positive anomaly and negative anomaly based on positive or negative values.
 
 
 ### El Niño Southern Oscillation (Niño3.4) Index 
