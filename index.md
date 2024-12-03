@@ -26,9 +26,21 @@ Method
 
 The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005 ; Fernandes et al., 2009 ). According to Rooy (1965) , RAI aims to make the comparison between precipitation deviations in different regions feasible.
 
-![RAI Computation](<img width="350" alt="RAI " src="https://github.com/user-attachments/assets/61db9ab8-eba9-4abf-b08d-d2ce29873742">)
-![RAI....](figures/RAI .png)
-![RAI1](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI%20.png)
+![RAI Computation](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI%20.png)
+
+Where:
+$\olsi{N} is the average monthly/seasonal/annual precipitation of historical series;
+
+
+
+ is the average monthly/seasonal/annual precipitation of historical series;
+M
+ is the average of ten highest monthly/seasonal/annual precipitations;
+X
+ is the average of ten lowest monthly/seasonal/annual precipitations;
+N − N
+ represents the positive anomaly and negative anomaly based on positive or negative values.
+
 
 ### El Niño Southern Oscillation (Niño3.4) Index 
 
