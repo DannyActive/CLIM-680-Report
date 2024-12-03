@@ -76,6 +76,11 @@ A panel plot of the climatology of monthly averaged precipitation (in meters), m
 
 ![Annual RAI Variability](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI_annual.png)
 
+![Composite Difference during ENSO](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/CDiff_ENSO(composite).png)
+
+![Composite Precipitation Anomaly during ENSO](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/CPA_ENSO(Composite).png)
+
+![Composite Precipitation Differences during ENSO](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/Nino_Neutral(composite).png)
 
 
 
