@@ -30,7 +30,7 @@ The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify
 
 Where:
 $\olsi{N} is the average monthly/seasonal/annual precipitation of historical series;
-
+\( P_{\N{mean}} \)
 
 
  is the average monthly/seasonal/annual precipitation of historical series;
