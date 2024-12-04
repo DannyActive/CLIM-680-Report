@@ -15,7 +15,7 @@ Africa is loacted between latitudes...
 
 
 ![African Map](./figures/African map.png)
-[Link to image source]( https://doi.org/10.1002/wea.7633)
+[Link to image source](https://doi.org/10.1002/wea.7633)
 
 
 Data
