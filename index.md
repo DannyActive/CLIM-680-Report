@@ -66,7 +66,7 @@ Results and Analysis
 
 ### Project Notebook on Github
 
-A collection of jupyter notebooks used for this analysis can be be found in my CLIM680-Report directory via [Analysis:](https://github.com/DannyActive/CLIM680-Report) . The python notebook [RAI](https://github.com/DannyActive/CLIM680-Report/blob/main/RAI.ipynb) includes a manual function for computing the Rainfall Anomaly Index (RAI). All notebooks are labeled and commented.
+A collection of jupyter notebooks used for this analysis can be be found in my CLIM680-Report directory via [Analysis:](https://github.com/DannyActive/CLIM680-Report) . The python notebook [RAI](./RAI.ipynb) includes a manual function for computing the Rainfall Anomaly Index (RAI). All notebooks are labeled and commented.
 
 ### Conda environment 
 The [climate.yml](climate.yml) file provides the conda environment for the successful execution of codes used in this study.
@@ -95,7 +95,7 @@ This section of the study is to investigate the impact of ENSO on precipitation 
 
 ### Composite and mean differences with Niñ0 3.4
 
-In this section of the study, composite analysis is performed on precipitation in Africa with the niño 3.4 index. Warm, neutral and cold events are grouped as a Sea Surface Temperature Anomaly (SSTA), where warm (el nino), neutral and cold (la nina) is $$\geq$$ 1 (greater than or qual to 1), 0 and $$\leq$$ -1 (less than or equal to 1) repectively. Exclusive calculation of the climatology and anomaly is done for the precipitation data and the dates in the preipitation data that match el nino, neutral and la nina phases were selected. The precipitation anomalies from this subset was used in generating composite precipitation anomaly plots during ENSO phases. Results from the plots show negative preipitation anomalies in south and west Africa during and positive anomaly in east Africa during EL Niño months. A reversse pattern is sseen during a la niña years where a negative anomaly is recorded in east Africa and a positive precipitation anomaly in south and west Africa. Most months within the the duration of study were within the neutral phase of ENSO with the coasts of central and easst Africa recording negative precipitation anomalies. The mean precipitation composite difference between El Niño and neutral phase was visualized, hatching off areas with statistical significance ussing the 95th confidence interval.
+In this section of the study, composite analysis is performed on precipitation in Africa with the niño 3.4 index. Warm, neutral and cold events are grouped as a Sea Surface Temperature Anomaly (SSTA), where warm (el nino), neutral and cold (la nina) is &ge; 1 (greater than or qual to 1), 0 and &le; -1 (less than or equal to 1) repectively. Exclusive calculation of the climatology and anomaly is done for the precipitation data and the dates in the preipitation data that match el nino, neutral and la nina phases were selected. The precipitation anomalies from this subset was used in generating composite precipitation anomaly plots during ENSO phases. Results from the plots show negative preipitation anomalies in south and west Africa during and positive anomaly in east Africa during EL Niño months. A reversse pattern is sseen during a la niña years where a negative anomaly is recorded in east Africa and a positive precipitation anomaly in south and west Africa. Most months within the the duration of study were within the neutral phase of ENSO with the coasts of central and easst Africa recording negative precipitation anomalies. The mean precipitation composite difference between El Niño and neutral phase was visualized, hatching off areas with statistical significance ussing the 95th confidence interval.
 
 ![Composite Difference during ENSO](./figures/Diff_ENSO_composite.png)
 
@@ -117,7 +117,7 @@ Apriliyati, D., & Pasan, E. (2024). The United Nations Office for the Coordinati
 
 Ball, J. E., Babister, M. K., Nathan, R., Weinmann, P. E., Weeks, W., Retallick, M., & Testoni, I. (2016). Australian Rainfall and Runoff-A guide to flood estimation.
 
-de Sousa Freitas, MA (1998). A decision support system for monitoring meteorological droughts in semi-arid regions. Revista Tecnologia , 19 (1).
+De Sousa Freitas, MA (1998). A decision support system for monitoring meteorological droughts in semi-arid regions. Revista Tecnologia , 19 (1).
 
 Keyantash, J., & Dracup, J. A. (2002). The quantification of drought: an evaluation of drought indices. Bulletin of the American Meteorological Society, 83(8), 1167-1180.
 
