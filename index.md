@@ -14,8 +14,6 @@ Study Area
 With longitudinal boundaries of -25 degrees, 64 degrees and latitudinal boundaries of -35 degrees and 37.3 degrees, Africa is characterized by different climatic regions. The ecosystem in each climatic region adapts to the prevailing climatic conditions. In this study, the continent is demarcated into 7 zones adopted from Aryee et al 2024. The zones are West Africa(West), Sahel, East Africa(East), Central Africa (Central),South-western Africa (South-West), South-eastern Africa (South-East) and Northern Africa (North). Precipitation in Africa is influenced by the monsoon system.
 
 ![African Map](./figures/African map.png)
-
-
 [Link to image source](https://doi.org/10.1002/wea.7633)
 
 
@@ -35,7 +33,7 @@ Method
 ---
 ### Rainfall Anomaly Index (RAI)
 
-The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005 ; Fernandes et al., 2009 ). According to Rooy (1965) , RAI aims to make the comparison between precipitation deviations in different regions feasible.
+The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005 ; Fernandes et al., 2009 ). RAI makes provides a feassible means of comparing precipitation deviations. (Rooy 1965). In this index, the precipitation values for the study period are ranked in descending order of magnitude. The average of the ten highest precipitation values as well the the values of the ten lowest precipitation values are computed. The positive and regative RAI indeces are computed using the mean of the ten highest and lowest extremes respectively. 
 
 ![RAI Computation](./figures/RAI .png)
 
@@ -87,9 +85,7 @@ Varying rainfall amounts across the various regions of Africa is influenced by b
 
 ![yearly_clim_precip](https://github.com/user-attachments/assets/819ffd0c-fa5e-4e3e-bc53-8c2c17c98e30)
 
-
-
-Here's for the annual RAI variability
+Precipitation anomalies over the years have been variable. Significant negative anomalies over the study area were recorded in the years 1997, 1998, 2002, 2005, 2006 and 2010 with values less than -5. While a low anomaly was recorded in 2018, signifcant negative values were recorded in South Africa, upper Central Africa. 1996 and 2000 recorded positive anomalies.
 
 ![Annual RAI Variability](./figures/RAI_annual.png)
 
