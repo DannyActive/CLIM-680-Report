@@ -122,5 +122,5 @@ Sadiq, A. A., Umar, S. M., & Bello, M. U. (2020). An estimation of rainfall anom
 
 Williams, A. P., Funk, C., Michaelsen, J., Rauscher, S. A., Robertson, I., Wils, T. H., ... & Loader, N. J. (2012). Recent summer precipitation trends in the Greater Horn of Africa and the emerging role of Indian Ocean sea surface temperature. Climate dynamics, 39, 2307-2328.
 
-van Rooy, C. A. (1965). Studies in classical satire and related literary theory. Brill Archive.
+Van Rooy, C. A. (1965). Studies in classical satire and related literary theory. Brill Archive.
 
