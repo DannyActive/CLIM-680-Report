@@ -48,6 +48,8 @@ $\overline{X}$ is the average of ten lowest monthly/seasonal/annual precipitatio
 
 N − $\overline{N}$ represents the positive anomaly and negative anomaly based on positive or negative values.
 
+Any change???
+
 
 ### El Niño Southern Oscillation (Niño3.4) Index 
 
