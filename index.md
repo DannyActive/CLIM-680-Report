@@ -1,4 +1,4 @@
-# Assessing Rainfall Variability and ENSO Influence on African Precipitation
+# Historical Assessment of Rainfall Variability and ENSO Influence in Africa
 
 by: Daniel A. Adjei
 ---
@@ -11,10 +11,10 @@ The variability of rainfall exhibited on both spatial and temporal scales (Ball 
 
 Study Area
 ---
-Africa is loacted between latitudes...
-
+With longitudinal boundaries of -25 degrees, 64 degrees and latitudinal boundaries of -35 degrees and 37.3 degrees, Africa is characterized by different climatic regions. The ecosystem in each climatic region adapts to the prevailing climatic conditions. In this study, the continent is demarcated into 7 zones adopted from Aryee et al 2024. The zones are West Africa(West), Sahel, East Africa(East), Central Africa (Central),South-western Africa (South-West), South-eastern Africa (South-East) and Northern Africa (North)
 
 ![African Map](./figures/African map.png)
+Adopted from Aryee et al 2024 ([](https://doi.org/10.31223/X5QM4N))
 
 [Link to image source](https://doi.org/10.1002/wea.7633)
 
@@ -26,7 +26,8 @@ The dataset used in this project:
 
 ### Cru TS Precipitation Dataset 
 
-The Climate Research Unit Time Series (CRU TS) dataset is a gridded dataset with a spatial resolution of 0.5 by 0.5 degree based on a spatially complete analysis of records of more than 4000 individual weather stations. Variables included in this dataset are monthly fields of precipitation, daily maximum and minimum temperatures, and cloud cover for 1901-2022. In this report, the monthly precipitation variable is used to compute the monthly and annual average climatology and the annual anomaly. 
+The data used in this study was retrieved from the Climate Research Unit Time Series version4.05 **(CRU TS4.05)** produced by the University of East Anglia **(UEA)**. The data is a gridded dataset with a spatial resolution of 0.5 by 0.5 degree based on a spatially complete analysis of records of more than 4000 individual weather stations. Variables included in this dataset are monthly fields of precipitation, daily maximum and minimum temperatures, and cloud cover for 1901-2022. In this report, the monthly precipitation variable is used to compute the seasonal and annual average climatology and the annual anomaly. The data can be accesed via via [CRU](https://eartharxiv.org/repository/view/6511/).
+
 
 [Link to dataset description](https://climatedataguide.ucar.edu/climate-data/cru-ts-gridded-precipitation-and-other-meteorological-variables-1901)
 
@@ -51,8 +52,6 @@ Where:
 
 N − <span style="text-decoration: overline;">N</span>
  represents the positive anomaly and negative anomaly based on positive or negative values.
-
-Any change???
 
 
 ### El Niño Southern Oscillation (Niño3.4) Index 
