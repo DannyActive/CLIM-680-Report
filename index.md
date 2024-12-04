@@ -90,7 +90,8 @@ Precipitation anomalies over the years have been variable. Significant negative 
 ![Annual RAI Variability](./figures/RAI_annual.png)
 
 ### ENSO and Precipitation in Africa
-brief here
+
+This section of the study is to investigate the impact of ENSO on precipitation in Africa.
 
 ### Composite and mean differences with Niñ0 3.4
 
@@ -104,6 +105,10 @@ In this section of the study, composite analysis is performed on precipitation i
 
 ![Composite Precipitation Differences for Nino-neutral](figures/Nino_Neutral(composite).png)
 
+
+Summary
+---
+The African continent has experienced a decline in preipitation indicated by negative rainfall anomaly in most zones as demarcated in the study. ENSO influences precipitaion patterns in Africa through its interaction with the monsoon system that drive precipitation. FA 
 
 
 Reference
