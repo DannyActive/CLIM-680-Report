@@ -1,4 +1,4 @@
-# Historical Assessment of Rainfall Variability and ENSO Influence in Africa
+# Historical Assessment of ENSO Influence on Rainfall Variability in Africa
 
 by: Daniel A. Adjei
 ---
@@ -11,7 +11,7 @@ The variability of rainfall exhibited on both spatial and temporal scales (Ball 
 
 Study Area
 ---
-With longitudinal boundaries of -25 degrees, 64 degrees and latitudinal boundaries of -35 degrees and 37.3 degrees, Africa is characterized by different climatic regions. The ecosystem in each climatic region adapts to the prevailing climatic conditions. In this study, the continent is demarcated into 7 zones adopted from Aryee et al 2024. The zones are West Africa(West), Sahel, East Africa(East), Central Africa (Central),South-western Africa (South-West), South-eastern Africa (South-East) and Northern Africa (North)
+With longitudinal boundaries of -25 degrees, 64 degrees and latitudinal boundaries of -35 degrees and 37.3 degrees, Africa is characterized by different climatic regions. The ecosystem in each climatic region adapts to the prevailing climatic conditions. In this study, the continent is demarcated into 7 zones adopted from Aryee et al 2024. The zones are West Africa(West), Sahel, East Africa(East), Central Africa (Central),South-western Africa (South-West), South-eastern Africa (South-East) and Northern Africa (North). Precipitation in Africa is influenced by the monsoon system.
 
 ![African Map](./figures/African map.png)
 
@@ -26,7 +26,7 @@ The dataset used in this project:
 
 ### Cru TS Precipitation Dataset 
 
-The data used in this study was retrieved from the Climate Research Unit Time Series version4.05 **(CRU TS4.05)** produced by the University of East Anglia **(UEA)**. The data is a gridded dataset with a spatial resolution of 0.5 by 0.5 degree based on a spatially complete analysis of records of more than 4000 individual weather stations. Variables included in this dataset are monthly fields of precipitation, daily maximum and minimum temperatures, and cloud cover for 1901-2022. In this report, the monthly precipitation variable is used to compute the seasonal and annual average climatology and the annual anomaly. The data can be accesed via via [CRU](https://eartharxiv.org/repository/view/6511/).
+The data used in this study was retrieved from the Climate Research Unit Time Series version4.05 **(CRU TS4.05)** produced by the University of East Anglia **(UEA)**. The data is a gridded dataset with a spatial resolution of 0.5 by 0.5 degree based on a spatially complete analysis of records of more than 4000 individual weather stations. Variables included in this dataset are monthly fields of precipitation, daily maximum and minimum temperatures, and cloud cover for 1901-2022. In this report, the monthly precipitation variable is used to compute the seasonal and annual average climatology and the annual anomaly from 1990 to 2019. The data can be accesed via via [CRU](https://eartharxiv.org/repository/view/6511/).
 
 
 [Link to dataset description](https://climatedataguide.ucar.edu/climate-data/cru-ts-gridded-precipitation-and-other-meteorological-variables-1901)
@@ -79,17 +79,12 @@ The figures from my project notebook are saved in a seperate 'figures' subdirect
 
 ### Climatology and Anomalies 
 
-To observe the seasonal variation of precipitation in Africa, the seasonal precipitation climatology is computed over the 30-yeaar duration. The northern, sahelian, and West African regions experience less precipitaipn during DJF (December, January, February), the season known as the harmattan characterized by the intruition of warm, dry and dusty winds from the the Saharan desert. During the DJF seasson, central, and southern Africa experience significant amount of rainfall.   
-
-A panel plot of the climatology of monthly averaged precipitation (in meters), monthly averaged cloud cover, and monthly averaged precipitable water (in kg/m^2) was plotted for each month, in order to observe differences in the monthly/seasonal cycle, and spatial variability. The largest amount of cloud cover is located around 0-20S in DJF (December, Janurary, February), gradually shifting north by MAM (March, April, May), and then furthest north in a band between 5S-15N by the JJA (June, July, August) rainy season. Precipitable water shows similar patterns, with highest values concentrated near the Gulf of Ginuea. The precipitation climatology, which is plotted in powers of 2 to highlight nonlinearity, also shows this northward shift in the rainy season.
+To observe the seasonal variation of precipitation in Africa, the seasonal precipitation climatology is computed over the 30-yeaar duration, producing a panel plot. North Africa experiences the least amount amount of rainfall throughout all seeasons. West and the upper central Africa experiences the highest rainfall amount in during JJA (June, July, August). The rainfall pattern subsequently shifts towards the south during MAM (March April, May), providing high rainfall amounts to  Central, East and South Africa. High rainfall amounts are recorded along the coasts of Central and West Coasts of West Africa during MAM (March, April, May) The minmal rainfall recorded in the north, sahel, and West Africa regions during DJF (December, January, February), is caused by the intruition of warm, dry and dusty winds from the the Saharan desert, producing the harmattan.
 
 ![seasonal_clim_precip](https://github.com/user-attachments/assets/2c918307-0dc4-4ee8-9904-8b8a6c76ac33)
 
+Varying rainfall amounts across the various regions of Africa is influenced by by factors including topography and vegetation. Results from this analysis shows a general decline in rainfall amounts in Africa, with the north Africa recording the leaat amount of precipitation. This can be attributed to the extend of travel of the Intertropical Convergence Zone (ITCZ) to the north, a key feature that drives precipitation in West and north Africa. East Africa's decline in long rains during MAM of 2010 and 2011 (William et al., 2011) caused a widespread famine in the Horn of Africa (United Nations Office for the Coordination of Humanitarian Affairs, 2011).    
 
-
-Describe the Annual Climatology plot...
-
-Drag and Drop
 ![yearly_clim_precip](https://github.com/user-attachments/assets/819ffd0c-fa5e-4e3e-bc53-8c2c17c98e30)
 
 
@@ -114,4 +109,7 @@ Here's for diff Nino-neutral
 
 Reference
 ---
+Apriliyati, D., & Pasan, E. (2024). The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) Humanitarian Response Plan in Handling the Afghanistan Food Crisis. Papua Journal of Diplomacy and International Relations, 4(1), 29-48.
+
+Williams, A. P., Funk, C., Michaelsen, J., Rauscher, S. A., Robertson, I., Wils, T. H., ... & Loader, N. J. (2012). Recent summer precipitation trends in the Greater Horn of Africa and the emerging role of Indian Ocean sea surface temperature. Climate dynamics, 39, 2307-2328.
 
