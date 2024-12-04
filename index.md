@@ -89,15 +89,18 @@ Precipitation anomalies over the years have been variable. Significant negative 
 
 ![Annual RAI Variability](./figures/RAI_annual.png)
 
-here's for Composite difference during ENSO
+### ENSO and Precipitation in Africa
+brief here
+
+### Composite and mean differences with Niñ0 3.4
+
+In this section of the study, composite analysis is performed on precipitation in Africa with the niño 3.4 index. Warm, neutral and cold events are grouped as a Sea Surface Temperature Anomaly (SSTA), where warm (el nino), neutral and cold (la nina) is $$\geq$$ 1 (greater than or qual to 1), 0 and $$\leq$$ -1 (less than or equal to 1) repectively. Exclusive calculation of the climatology and anomaly is done for the precipitation data and the dates in the preipitation data that match el nino, neutral and la nina phases were selected. The precipitation anomalies from this subset was used in generating composite precipitation anomaly plots during ENSO phases. Results from the plots show negative preipitation anomalies in south and west Africa during and positive anomaly in east Africa during EL Niño months. A reversse pattern is sseen during a la niña years where a negative anomaly is recorded in east Africa and a positive precipitation anomaly in south and west Africa. Most months within the the duration of study were within the neutral phase of ENSO with the coasts of central and easst Africa recording negative precipitation anomalies. The mean precipitation composite difference between El Niño and neutral phase was visualized, hatching off areas with statistical significance ussing the 95th confidence interval.
 
 ![Composite Difference during ENSO](./figures/Diff_ENSO_composite.png)
 
-Here's for composiste precip anomaly...
 
 ![Composite Precipitation Anomaly during ENSO](./figures/PA_ENSO_Composite.png)
 
-Here's for diff Nino-neutral
 
 ![Composite Precipitation Differences for Nino-neutral](figures/Nino_Neutral(composite).png)
 
