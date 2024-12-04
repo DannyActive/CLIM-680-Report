@@ -40,13 +40,17 @@ The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify
 
 Where:
 
-$\overline{N}$ is the average monthly/seasonal/annual precipitation of historical series;
+<span style="text-decoration: overline;">N</span>
+ is the average monthly/seasonal/annual precipitation of historical series;
 
-$\overline{M}$ is the average of ten highest monthly/seasonal/annual precipitations;
+<span style="text-decoration: overline;">M</span>
+ is the average of ten highest monthly/seasonal/annual precipitations;
 
-$\overline{X}$ is the average of ten lowest monthly/seasonal/annual precipitations;
+<span style="text-decoration: overline;">X</span>
+$ is the average of ten lowest monthly/seasonal/annual precipitations;
 
-N − $\overline{N}$ represents the positive anomaly and negative anomaly based on positive or negative values.
+N − <span style="text-decoration: overline;">N</span>
+ represents the positive anomaly and negative anomaly based on positive or negative values.
 
 Any change???
 
