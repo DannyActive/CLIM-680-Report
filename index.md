@@ -14,6 +14,7 @@ Study Area
 With longitudinal boundaries of -25 degrees, 64 degrees and latitudinal boundaries of -35 degrees and 37.3 degrees, Africa is characterized by different climatic regions. The ecosystem in each climatic region adapts to the prevailing climatic conditions. In this study, the continent is demarcated into 7 zones adopted from Aryee et al 2024. The zones are West Africa(West), Sahel, East Africa(East), Central Africa (Central),South-western Africa (South-West), South-eastern Africa (South-East) and Northern Africa (North)
 
 ![African Map](./figures/African map.png)
+
 Adopted from Aryee et al 2024 ([](https://doi.org/10.31223/X5QM4N))
 
 [Link to image source](https://doi.org/10.1002/wea.7633)
