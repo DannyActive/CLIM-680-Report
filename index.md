@@ -15,6 +15,7 @@ Africa is loacted between latitudes...
 
 
 ![African Map](./figures/African map.png)
+
 [Link to image source](https://doi.org/10.1002/wea.7633)
 
 
@@ -82,21 +83,29 @@ A panel plot of the climatology of monthly averaged precipitation (in meters), m
 ![seasonal_clim_precip](https://github.com/user-attachments/assets/2c918307-0dc4-4ee8-9904-8b8a6c76ac33)
 
 
-![Annual Precipitation Climatology](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/yearly_clim_precip.png)
+
+Describe the Annual Climatology plot...
 
 Drag and Drop
 ![yearly_clim_precip](https://github.com/user-attachments/assets/819ffd0c-fa5e-4e3e-bc53-8c2c17c98e30)
 
 
 
+Here's for the annual RAI variability
 
-![Annual RAI Variability](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI_annual.png)
+![Annual RAI Variability](./figures/RAI_annual.png)
 
-![Composite Difference during ENSO](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/CDiff_ENSO(composite).png)
+here's for Composite difference during ENSO
 
-![Composite Precipitation Anomaly during ENSO](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/CPA_ENSO(Composite).png)
+![Composite Difference during ENSO](./figures/CDiff_ENSO(composite).png)
 
-![Composite Precipitation Differences during ENSO](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/Nino_Neutral(composite).png)
+Here's for composiste precip anomaly...
+
+![Composite Precipitation Anomaly during ENSO](./figures/CPA_ENSO(Composite).png)
+
+Here's for diff Nino-neutral
+
+![Composite Precipitation Differences for Nino-neutral](figures/Nino_Neutral(composite).png)
 
 
 
