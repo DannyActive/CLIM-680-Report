@@ -11,12 +11,11 @@ The variability of rainfall exhibited on both spatial and temporal scales (Ball 
 
 Study Area
 ---
+Africa is loacted between latitudes...
 
-![African map](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/African%20map.png)
 
-
-![AM](./figures/African map.png)
-
+![African Map](./figures/African map.png)
+[Link to image source]( https://doi.org/10.1002/wea.7633)
 
 
 Data
@@ -80,9 +79,14 @@ To observe the seasonal variation of precipitation in Africa, the seasonal preci
 
 A panel plot of the climatology of monthly averaged precipitation (in meters), monthly averaged cloud cover, and monthly averaged precipitable water (in kg/m^2) was plotted for each month, in order to observe differences in the monthly/seasonal cycle, and spatial variability. The largest amount of cloud cover is located around 0-20S in DJF (December, Janurary, February), gradually shifting north by MAM (March, April, May), and then furthest north in a band between 5S-15N by the JJA (June, July, August) rainy season. Precipitable water shows similar patterns, with highest values concentrated near the Gulf of Ginuea. The precipitation climatology, which is plotted in powers of 2 to highlight nonlinearity, also shows this northward shift in the rainy season.
 
-![Seasonal Precipitation Climatology](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/seasonal_clim_precip.png)
+![seasonal_clim_precip](https://github.com/user-attachments/assets/2c918307-0dc4-4ee8-9904-8b8a6c76ac33)
+
 
 ![Annual Precipitation Climatology](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/yearly_clim_precip.png)
+
+Drag and Drop
+![yearly_clim_precip](https://github.com/user-attachments/assets/819ffd0c-fa5e-4e3e-bc53-8c2c17c98e30)
+
 
 
 
@@ -97,7 +101,7 @@ A panel plot of the climatology of monthly averaged precipitation (in meters), m
 
 
 
-![seasonal_clim_precip](https://github.com/user-attachments/assets/2c918307-0dc4-4ee8-9904-8b8a6c76ac33)
+
 
 
 ![composite precip anomaly_ENSO](https://github.com/user-attachments/assets/886f3c5d-8ed8-4316-a980-665092039345)
