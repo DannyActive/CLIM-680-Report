@@ -76,7 +76,7 @@ The figures from my project notebook are saved in a seperate 'figures' subdirect
 
 ### Climatology and Anomalies 
 
-To observe the differences in monthly average precipitation (mm) and spatial variability, a multi-pannel plot was plotted for each month. 
+To observe the differences in monthly average precipitation (mm) and spatial variability, a multi-pannel plot was plotted for each month. The north, sahel and western regions of Africa experience less precipitation in the 
 
 A panel plot of the climatology of monthly averaged precipitation (in meters), monthly averaged cloud cover, and monthly averaged precipitable water (in kg/m^2) was plotted for each month, in order to observe differences in the monthly/seasonal cycle, and spatial variability. The largest amount of cloud cover is located around 0-20S in DJF (December, Janurary, February), gradually shifting north by MAM (March, April, May), and then furthest north in a band between 5S-15N by the JJA (June, July, August) rainy season. Precipitable water shows similar patterns, with highest values concentrated near the Gulf of Ginuea. The precipitation climatology, which is plotted in powers of 2 to highlight nonlinearity, also shows this northward shift in the rainy season.
 
