@@ -33,7 +33,7 @@ Method
 ---
 ### Rainfall Anomaly Index (RAI)
 
-The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005 ; Fernandes et al., 2009 ). RAI makes provides a feassible means of comparing precipitation deviations. (Rooy 1965). In this index, the precipitation values for the study period are ranked in descending order of magnitude. The average of the ten highest precipitation values as well the the values of the ten lowest precipitation values are computed. The positive and regative RAI indeces are computed using the mean of the ten highest and lowest extremes respectively. 
+The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005). RAI makes provides a feassible means of comparing precipitation deviations (Rooy 1965). In this index, the precipitation values for the study period are ranked in descending order of magnitude. The average of the ten highest precipitation values as well the the values of the ten lowest precipitation values are computed. The positive and regative RAI indeces are computed using the mean of the ten highest and lowest extremes respectively. 
 
 ![RAI Computation](./figures/RAI .png)
 
@@ -107,5 +107,15 @@ Reference
 ---
 Apriliyati, D., & Pasan, E. (2024). The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) Humanitarian Response Plan in Handling the Afghanistan Food Crisis. Papua Journal of Diplomacy and International Relations, 4(1), 29-48.
 
+Ball, J. E., Babister, M. K., Nathan, R., Weinmann, P. E., Weeks, W., Retallick, M., & Testoni, I. (2016). Australian Rainfall and Runoff-A guide to flood estimation.
+
+de Sousa Freitas, MA (1998). A decision support system for monitoring meteorological droughts in semi-arid regions. Revista Tecnologia , 19 (1).
+
+Keyantash, J., & Dracup, J. A. (2002). The quantification of drought: an evaluation of drought indices. Bulletin of the American Meteorological Society, 83(8), 1167-1180.
+
+Sadiq, A. A., Umar, S. M., & Bello, M. U. (2020). An estimation of rainfall anomaly index and its impact on crop production in Yola and environs. African Journal of Environment and Natural Science Research, 3(4), 35-53.
+
 Williams, A. P., Funk, C., Michaelsen, J., Rauscher, S. A., Robertson, I., Wils, T. H., ... & Loader, N. J. (2012). Recent summer precipitation trends in the Greater Horn of Africa and the emerging role of Indian Ocean sea surface temperature. Climate dynamics, 39, 2307-2328.
+
+van Rooy, C. A. (1965). Studies in classical satire and related literary theory. Brill Archive.
 
