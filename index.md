@@ -26,7 +26,6 @@ The dataset used in this project:
 
 The data used in this study was retrieved from the Climate Research Unit Time Series version4.05 **(CRU TS4.05)** produced by the University of East Anglia **(UEA)**. The data is a gridded dataset with a spatial resolution of 0.5 by 0.5 degree based on a spatially complete analysis of records of more than 4000 individual weather stations. Variables included in this dataset are monthly fields of precipitation, daily maximum and minimum temperatures, and cloud cover for 1901-2022. In this report, the monthly precipitation variable is used to compute the seasonal and annual average climatology and the annual anomaly from 1990 to 2019. The data can be accesed via via [CRU](https://eartharxiv.org/repository/view/6511/).
 
-
 [Link to dataset description](https://climatedataguide.ucar.edu/climate-data/cru-ts-gridded-precipitation-and-other-meteorological-variables-1901)
 
 Method
@@ -69,7 +68,7 @@ Results and Analysis
 A collection of jupyter notebooks used for this analysis can be be found in my CLIM680-Report directory via [Analysis:](https://github.com/DannyActive/CLIM680-Report) . The python notebook [RAI](./RAI.ipynb) includes a manual function for computing the Rainfall Anomaly Index (RAI). All notebooks are labeled and commented.
 
 ### Conda environment 
-The [climate.yml](climate.yml) file provides the conda environment for the successful execution of codes used in this study.
+The [climate.yml](./climate.yml) file provides the conda environment for the successful execution of codes used in this study.
 
 ### Figures
 All figures generated from this work can be found in the sub-repository [figures](https://github.com/DannyActive/CLIM680-Report/tree/main/figures).
@@ -99,16 +98,14 @@ In this section of the study, composite analysis is performed on precipitation i
 
 ![Composite Difference during ENSO](./figures/Diff_ENSO_composite.png)
 
-
 ![Composite Precipitation Anomaly during ENSO](./figures/PA_ENSO_Composite.png)
-
 
 ![Composite Precipitation Differences for Nino-neutral](figures/Nino_Neutral(composite).png)
 
 
 Summary
 ---
-The African continent has experienced a decline in preipitation indicated by negative rainfall anomaly in most zones as demarcated in the study. ENSO influences precipitaion patterns in Africa through its interaction with the monsoon system that drive precipitation. FA 
+The African continent has experienced a decline in preipitation indicated by negative rainfall anomaly in most zones as demarcated in the study. ENSO influences precipitaion patterns in Africa through its interaction with the monsoon system that drive precipitation. Future studies will investigate the impact of ENSO on the pattern of individual monsoon systems that drive precipitation in each climatic zone of Africa.
 
 
 Reference
