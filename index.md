@@ -15,7 +15,7 @@ Study Area
 ![African map](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/African%20map.png)
 
 
-![AM](<img width="251" alt="African map" src="https://github.com/user-attachments/assets/f8f2ccfc-0e2a-482a-8e1d-68b8587eee6e">)
+![AM](./figures/African map.png)
 
 
 
