@@ -36,7 +36,7 @@ Method
 
 The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005 ; Fernandes et al., 2009 ). According to Rooy (1965) , RAI aims to make the comparison between precipitation deviations in different regions feasible.
 
-![RAI Computation](https://github.com/DannyActive/CLIM680-Report/blob/main/figures/RAI%20.png)
+![RAI Computation](./figures/RAI .png)
 
 Where:
 
@@ -109,11 +109,6 @@ Here's for diff Nino-neutral
 
 
 
-
-
-
-
-![composite precip anomaly_ENSO](https://github.com/user-attachments/assets/886f3c5d-8ed8-4316-a980-665092039345)
-
-
+Reference
+---
 
