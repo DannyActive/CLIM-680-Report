@@ -97,6 +97,7 @@ A panel plot of the climatology of monthly averaged precipitation (in meters), m
 
 
 
+![seasonal_clim_precip](https://github.com/user-attachments/assets/2c918307-0dc4-4ee8-9904-8b8a6c76ac33)
 
 
 ![composite precip anomaly_ENSO](https://github.com/user-attachments/assets/886f3c5d-8ed8-4316-a980-665092039345)
