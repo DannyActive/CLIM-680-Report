@@ -47,7 +47,7 @@ Where:
  is the average of ten highest monthly/seasonal/annual precipitations;
 
 <span style="text-decoration: overline;">X</span>
-$ is the average of ten lowest monthly/seasonal/annual precipitations;
+ is the average of ten lowest monthly/seasonal/annual precipitations;
 
 N − <span style="text-decoration: overline;">N</span>
  represents the positive anomaly and negative anomaly based on positive or negative values.
