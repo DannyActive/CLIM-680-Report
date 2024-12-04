@@ -91,11 +91,11 @@ Precipitation anomalies over the years have been variable. Significant negative 
 
 here's for Composite difference during ENSO
 
-![Composite Difference during ENSO](./figures/CDiff_ENSO(composite).png)
+![Composite Difference during ENSO](./figures/Diff_ENSO_composite.png)
 
 Here's for composiste precip anomaly...
 
-![Composite Precipitation Anomaly during ENSO](./figures/CPA_ENSO(Composite).png)
+![Composite Precipitation Anomaly during ENSO](./figures/PA_ENSO_Composite.png)
 
 Here's for diff Nino-neutral
 
