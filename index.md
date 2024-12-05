@@ -31,7 +31,7 @@ Method
 ---
 ### Rainfall Anomaly Index (RAI)
 
-The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005). RAI makes provides a feassible means of comparing precipitation deviations (Rooy 1965). In this index, the precipitation values for the study period are ranked in descending order of magnitude. The average of the ten highest precipitation values as well the the values of the ten lowest precipitation values are computed. The positive and regative RAI indeces are computed using the mean of the ten highest and lowest extremes respectively. 
+The Rainfall Anomaly Index (RAI), developed by Rooy (1965) , is used to classify the positive and negative severities in rainfall anomalies. It is considered an index of remarkable procedural simplicity because it requires only precipitation data ( Freitas, 2005). RAI provides a feassible means of comparing precipitation deviations (Rooy 1965). In this index, the precipitation values for the study period are ranked in descending order of magnitude. The average of the ten highest precipitation values as well the the values of the ten lowest precipitation values are computed. The positive and regative RAI indeces are computed using the mean of the ten highest and lowest extremes respectively. 
 
 ![RAI Computation](./figures/RAI .png)
 
