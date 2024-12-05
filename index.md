@@ -16,7 +16,6 @@ With longitudinal boundaries of -25 degrees, 64 degrees and latitudinal boundari
 ![African Map](./figures/African map.png)
 [Link to image source](https://doi.org/10.1002/wea.7633)
 
-
 Data
 ---
 
